@@ -1,0 +1,3 @@
+protein_class.xlsx: 4986 proteins and their subcellular locations (encoded by integers)
+class.xlsx: 16 subcellular locations and their encoded integers
+subc_PPI-connection_GO_KEGG.zip: proteins encoded by network and functional GO/KEGG features 
